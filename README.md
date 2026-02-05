@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+프론트엔드 개발자 입니다
+
 <!--
 **pswon5894/pswon5894** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
